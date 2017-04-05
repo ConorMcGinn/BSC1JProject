@@ -11,36 +11,6 @@ This report will cover these stages in a step-by-step manner with a special focu
 
 ## Virtualisation and VM Vitualbox
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut finibus, nisi id pharetra molestie, elit tellus imperdiet dolor, eu congue arcu urna quis justo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam feugiat nisi felis, at eleifend turpis mattis sit amet. Proin nec egestas ligula. Cras et est risus. Fusce quis nisi lacus. Duis nec urna ornare, sagittis arcu vitae, ullamcorper purus. Aenean placerat aliquet velit eu condimentum. Fusce sit amet malesuada erat, a volutpat magna. Cras interdum odio non aliquet efficitur. Morbi nisl magna, aliquet vel ornare a, molestie ut magna. Etiam nibh dui, interdum non felis nec, pulvinar faucibus massa. Phasellus eget tortor arcu.
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ConorMcGinn/firstpages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Phasellus quis libero ac mi tempus pretium. Nunc volutpat aliquam sapien. Nunc suscipit ligula non nisl aliquet, eget fermentum velit viverra. Cras egestas arcu eu ullamcorper ornare. Morbi sodales ligula eu libero tristique gravida. In commodo ante sem, a tincidunt mi sagittis nec. Vivamus luctus, ligula nec tempus eleifend, enim massa gravida neque, eu suscipit augue tortor eget lectus. Ut cursus diam eu ante pulvinar, scelerisque gravida ex ultrices. Curabitur vehicula, ante ac ultricies aliquet, diam risus blandit dui, ut accumsan turpis risus id massa. Donec vitae ante odio. Aliquam volutpat faucibus ligula. Duis in fermentum neque, lacinia aliquet turpis.
